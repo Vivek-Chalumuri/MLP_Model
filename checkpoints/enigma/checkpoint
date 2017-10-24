@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\vicky\\Desktop\\WORK\\11_TensorFlow_Consulting\\July-11th\\Faraone_TF_V4-8-17\\checkpoints/enigma/training.ckpt-1000"
+all_model_checkpoint_paths: "C:\\Users\\vicky\\Desktop\\WORK\\11_TensorFlow_Consulting\\July-11th\\Faraone_TF_V4-8-17\\checkpoints/enigma/training.ckpt-1000"
